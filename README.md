@@ -4,6 +4,8 @@
 
 Practise project to validate user login.
 
+The project was part of Simplilearn **Full Stack Java Developer Master Program** Phase (2).
+
 ## Technologies
 - Java EE
 - Servlets
